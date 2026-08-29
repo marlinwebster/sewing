@@ -5,8 +5,22 @@
   <id>https://marlinwebster.github.io/sewing/</id>
   <link href="https://marlinwebster.github.io/sewing/"/>
   <link rel="self" href="https://marlinwebster.github.io/sewing/feed.xml"/>
-  <updated>2026-08-22T00:00:00Z</updated>
+  <updated>2026-08-26T00:00:00Z</updated>
   <author><name>A Maker's Lookbook</name></author>
+  <entry>
+    <title>Trigg Shorts</title>
+    <id>https://marlinwebster.github.io/sewing/#make-9125EC1F-07EE-4516-9F6A-9502C4FD2184</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-08-26T00:00:00Z</updated>
+    <summary>Shorts · 2026-08-26</summary>
+  </entry>
+  <entry>
+    <title>Patty Pullover</title>
+    <id>https://marlinwebster.github.io/sewing/#make-F494A6C4-CEB8-4425-B399-08F26675F719</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-08-24T00:00:00Z</updated>
+    <summary>Jacket · 2026-08-24</summary>
+  </entry>
   <entry>
     <title>Eat Shit Fuck Die</title>
     <id>https://marlinwebster.github.io/sewing/#make-2D6C8A98-087A-4B02-8769-72698B2887A8</id>
@@ -342,19 +356,5 @@
     <link href="https://marlinwebster.github.io/sewing/"/>
     <updated>2025-11-25T00:00:00Z</updated>
     <summary>Dress · 2025-11-25</summary>
-  </entry>
-  <entry>
-    <title>Sewingman Jacket</title>
-    <id>https://marlinwebster.github.io/sewing/#make-731A74A0-AECB-48CC-B68B-8A3BFEB81639</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2025-04-05T00:00:00Z</updated>
-    <summary>Jacket · 2025-04-05</summary>
-  </entry>
-  <entry>
-    <title>Parker</title>
-    <id>https://marlinwebster.github.io/sewing/#make-1EB5447B-134F-46A2-BB1F-3A51DF1FD5A6</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2024-12-03T00:00:00Z</updated>
-    <summary>Jacket · 2024-12-03</summary>
   </entry>
 </feed>
