@@ -5,8 +5,15 @@
   <id>https://marlinwebster.github.io/sewing/</id>
   <link href="https://marlinwebster.github.io/sewing/"/>
   <link rel="self" href="https://marlinwebster.github.io/sewing/feed.xml"/>
-  <updated>2026-08-26T00:00:00Z</updated>
+  <updated>2026-08-30T00:00:00Z</updated>
   <author><name>A Maker's Lookbook</name></author>
+  <entry>
+    <title>Arrowsmith Undershirt</title>
+    <id>https://marlinwebster.github.io/sewing/#make-8619D709-15A1-4771-BFF9-A2E1DC277670</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-08-30T00:00:00Z</updated>
+    <summary>Shirt · 2026-08-30</summary>
+  </entry>
   <entry>
     <title>Trigg Shorts</title>
     <id>https://marlinwebster.github.io/sewing/#make-9125EC1F-07EE-4516-9F6A-9502C4FD2184</id>
@@ -349,12 +356,5 @@
     <link href="https://marlinwebster.github.io/sewing/"/>
     <updated>2026-02-03T00:00:00Z</updated>
     <summary>Jacket · 2026-02-03</summary>
-  </entry>
-  <entry>
-    <title>Puff &amp; Pencil -  Crossover Dress</title>
-    <id>https://marlinwebster.github.io/sewing/#make-654223D2-9C3F-46B1-822D-AD2110A5CD87</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2025-11-25T00:00:00Z</updated>
-    <summary>Dress · 2025-11-25</summary>
   </entry>
 </feed>
