@@ -5,8 +5,36 @@
   <id>https://marlinwebster.github.io/sewing/</id>
   <link href="https://marlinwebster.github.io/sewing/"/>
   <link rel="self" href="https://marlinwebster.github.io/sewing/feed.xml"/>
-  <updated>2026-08-30T00:00:00Z</updated>
+  <updated>2026-10-01T00:00:00Z</updated>
   <author><name>A Maker's Lookbook</name></author>
+  <entry>
+    <title>If Jesus was a carpenter</title>
+    <id>https://marlinwebster.github.io/sewing/#make-D6A7A7CF-7882-457A-A524-36D2A0DE9DD8</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <summary>Trousers · 2026-10-01</summary>
+  </entry>
+  <entry>
+    <title>M8686AA Vintage Trousers</title>
+    <id>https://marlinwebster.github.io/sewing/#make-C3FC4B31-86AF-4824-89C3-7E8F4E03E88B</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-09-20T00:00:00Z</updated>
+    <summary>Trousers · 2026-09-20</summary>
+  </entry>
+  <entry>
+    <title>French Chore Coat</title>
+    <id>https://marlinwebster.github.io/sewing/#make-BE164CA6-19FB-4F68-BDC8-2BD18F60426B</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-09-15T00:00:00Z</updated>
+    <summary>Jacket · 2026-09-15</summary>
+  </entry>
+  <entry>
+    <title>Bonnet Shirt</title>
+    <id>https://marlinwebster.github.io/sewing/#make-E362CB22-090B-450E-B939-601D66D8C6CE</id>
+    <link href="https://marlinwebster.github.io/sewing/"/>
+    <updated>2026-09-05T00:00:00Z</updated>
+    <summary>Shirt · 2026-09-05</summary>
+  </entry>
   <entry>
     <title>Arrowsmith Undershirt</title>
     <id>https://marlinwebster.github.io/sewing/#make-8619D709-15A1-4771-BFF9-A2E1DC277670</id>
@@ -328,33 +356,5 @@
     <link href="https://marlinwebster.github.io/sewing/"/>
     <updated>2026-03-30T00:00:00Z</updated>
     <summary>Jacket · 2026-03-30</summary>
-  </entry>
-  <entry>
-    <title>Fibre Mood - Maya Dress</title>
-    <id>https://marlinwebster.github.io/sewing/#make-E556AB51-2F03-49B5-934F-888BD3AC8E73</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2026-03-26T00:00:00Z</updated>
-    <summary>Dress · 2026-03-26</summary>
-  </entry>
-  <entry>
-    <title>McCalls - M8589 - Heated Rivalry Shirt</title>
-    <id>https://marlinwebster.github.io/sewing/#make-2FD9AC39-CE0B-4228-930E-2C899FAA7039</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2026-03-23T00:00:00Z</updated>
-    <summary>Shirt · 2026-03-23</summary>
-  </entry>
-  <entry>
-    <title>ByLukas - Curved Jacket</title>
-    <id>https://marlinwebster.github.io/sewing/#make-A0D1540E-1CD8-4F4D-BBF9-8B91199ABE05</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2026-02-19T00:00:00Z</updated>
-    <summary>Jacket · 2026-02-19</summary>
-  </entry>
-  <entry>
-    <title>Bomber Jacket - M8635</title>
-    <id>https://marlinwebster.github.io/sewing/#make-6A512D7F-9971-4B20-84DD-A61334666BA5</id>
-    <link href="https://marlinwebster.github.io/sewing/"/>
-    <updated>2026-02-03T00:00:00Z</updated>
-    <summary>Jacket · 2026-02-03</summary>
   </entry>
 </feed>
